@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+      "details": [
+      {
+        "appID": "75378529F4.jp.neoscorp.test.photoviewer",
+        "paths":[ "/" ]
+      }
+    ]
+  }
+}
